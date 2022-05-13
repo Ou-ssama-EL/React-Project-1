@@ -24,7 +24,7 @@ const NavBar = () => {
                             <li className="list-item"><a href="#">Portfolio</a></li>
                             <li className="list-item"><a href="#">Resume</a></li>
                             <li className="list-item"><a href="#">About</a></li>
-                        <li className="list-item"><Link to="/contact">Contact</Link></li>
+                        <li className="list-item"><Link to="React-Project-1/contact">Contact</Link></li>
                         </ul>
                         {/* <!-- ./ul-list --> */}
 
